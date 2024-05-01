@@ -1,6 +1,6 @@
-![image](https://github.com/YukiRiiNa/WhiteList4qq/assets/39652411/572d9e76-b74d-4828-a437-83a29b2a9ee0)# WhiteList4qq 1.20+
+# WhiteList4qq 1.20+
 让你的群友申请白名单 支持1.20.1+
-参考的另一个同款插件：
+根据另一个同名插件修改而来：
 https://github.com/DreamVoid/Whitelist4QQ
 跟另一个同名插件功能一样，受其启发，自己写了个1.20.1的版本给自己服务器用，并使用mysql存储绑定的数据
 
