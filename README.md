@@ -1,4 +1,8 @@
 # WhiteList4qq 1.20+
+
+这个插件已经弃用了，原因是mirai风控概率太高了
+建议使用基于qqnt的机器人+koishi
+
 让你的群友申请白名单 支持1.20.1+
 根据另一个同名插件修改而来：
 https://github.com/DreamVoid/Whitelist4QQ
